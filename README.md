@@ -65,16 +65,15 @@
 
 ### 📌 Featured Projects
 
-- 🎯 [Credit Card Default Predictor](https://github.com/palakjagtap/credit-risk-ml)  
+- 🎯 [Credit Card Default Predictor](https://github.com/PAlakj02/credit-risk-ml)  
   A machine learning pipeline for early credit default detection using LightGBM, SMOTE, and feature engineering.
 
-- 🌙 [Low Light Image Enhancer](https://github.com/palakjagtap/low-light-enhancer)  
+- 🌙 [Low Light Image Enhancer](https://github.com/PAlakj02/low-light-enhancer)  
   Enhancing image visibility by learning illumination patterns from paired datasets.
 
-- 🧬 [Protein Disorder Modeling](https://github.com/palakjagtap/idp-modeling)  
+- 🧬 [Protein Disorder Modeling](https://github.com/PAlakj02/idp-modeling)  
   Modeling ensemble dynamics of IDPs using deep generative techniques.
 
-(*Update links to actual repos*)
 
 ---
 
@@ -84,7 +83,7 @@
   <a href="https://www.linkedin.com/in/palakjagtap" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:palakjagtap@email.com">
+  <a href="mailto:palakjagtapp93@email.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
