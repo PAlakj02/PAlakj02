@@ -58,7 +58,7 @@
 ### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=palakjagtap&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=PAlakj02&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
