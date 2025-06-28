@@ -55,14 +55,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PAlakj02&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ### 📌 Featured Projects
 
 - 🎯 [Credit Card Default Predictor](https://github.com/PAlakj02/credit-risk-ml)  
