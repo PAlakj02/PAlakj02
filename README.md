@@ -60,11 +60,12 @@
 - 🎯 [Credit Card Default Predictor](https://github.com/PAlakj02/credit-risk-ml)  
   A machine learning pipeline for early credit default detection using LightGBM, SMOTE, and feature engineering.
 
-- 🌙 [Low Light Image Enhancer](https://github.com/PAlakj02/low-light-enhancer)  
-  Enhancing image visibility by learning illumination patterns from paired datasets.
 
-- 🧬 [Protein Disorder Modeling](https://github.com/PAlakj02/idp-modeling)  
-  Modeling ensemble dynamics of IDPs using deep generative techniques.
+- [Text_to_blender](https://github.com/PAlakj02/credit-risk-ml)
+  Fine tuned the Llama 8B LLM to generate 75% accurate blender script that can help in automating tasks inside blender software  .
+
+- [readingmyfavbooks](https://github.com/PAlakj02/credit-risk-ml)
+A full-stack system that tracks, summarizes, and stores your online reading/watching using a Chrome extension + local LLaMA LLM backend.
 
 
 ---
