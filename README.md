@@ -13,11 +13,13 @@
 
 ### 🔍 What I'm Working On
 
-- 💳 ML systems to predict credit risk for banks  
-- 📸 Enhancing low-light images with computer vision  
-- 🧫 Modeling Intrinsically Disordered Proteins  
-- 🧩 Creating a universal API adapter for smoother integration  
+-🧠 Trustworthy & Explainable AI — Designing interpretable ML systems for credit risk assessment and ethical decision-making in LLMs.
 
+-⚛️ Physics-Informed Neural Modeling — Leveraging PINNs to solve quantum-scale differential equations with enhanced physical fidelity.
+
+-🧬 Computational Biology & Protein Modeling — Applying AI-driven methods to study and simulate intrinsically disordered proteins.
+
+-🌐 Agentic AI & Automation Systems — Developing LLM-integrated tools and scalable backend architectures for intelligent digital workflows.
 ⚡ _Fun Fact:_ I name my bugs before debugging them. They deserve a proper send-off.
 
 ---
