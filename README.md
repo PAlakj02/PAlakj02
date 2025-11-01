@@ -13,13 +13,15 @@
 
 ### 🔍 What I'm Working On
 
--🧠 Trustworthy & Explainable AI — Designing interpretable ML systems for credit risk assessment and ethical decision-making in LLMs.
+-🧠 Trustworthy & Explainable AI :— Designing interpretable ML systems for credit risk assessment and ethical decision-making in LLMs.
 
--⚛️ Physics-Informed Neural Modeling — Leveraging PINNs to solve quantum-scale differential equations with enhanced physical fidelity.
+-⚛️ Physics-Informed Neural Modeling :— Leveraging PINNs to solve quantum-scale differential equations with enhanced physical fidelity.
 
--🧬 Computational Biology & Protein Modeling — Applying AI-driven methods to study and simulate intrinsically disordered proteins.
+-🧬 Computational Biology & Protein Modeling :— Applying AI-driven methods to study and simulate intrinsically disordered proteins.
 
--🌐 Agentic AI & Automation Systems — Developing LLM-integrated tools and scalable backend architectures for intelligent digital workflows.
+-🌐 Agentic AI & Automation Systems :— Developing LLM-integrated tools and scalable backend architectures for intelligent digital workflows.
+
+
 ⚡ _Fun Fact:_ I name my bugs before debugging them. They deserve a proper send-off.
 
 ---
