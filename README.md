@@ -1,7 +1,7 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Palak</h1>
+<h1 align="center">Hi 👋I'm Palak</h1>
 <h3 align="center">Biotech × Machine Learning × Quantum Curious</h3>
 
 ---
