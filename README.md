@@ -2,7 +2,7 @@
 ---
 
 <h1 align="center">Hi 👋I'm Palak</h1>
-<h3 align="center">Biotech × Machine Learning × Quantum Curious</h3>
+<h3 align="center"> Machine Learning,AL,LLMs,RAgs,Apps </h3>
 
 ---
 
