@@ -7,7 +7,7 @@
 ---
 
 🎓 **Curious Mind @ IIT Roorkee**  
-🚀 Building bridges across 🧬 Biotechnology, 🤖 Machine Learning, 
+🚀 Building bridges across  🤖 Machine Learning, 🧬 Biotechnology
 
 ---
 
