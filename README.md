@@ -21,7 +21,7 @@
 
 I build AI products that actually ship: **LLM-powered chatbots, RAG systems, ML pipelines, and the backends behind them**. IIT Roorkee grad (B.Tech, Biosciences & Bioengineering) working where machine learning meets real products and real users.
 
-- 💼 **Now:** Senior Associate Engineer -AI/ML , part of the team shipping production AI products (chatbots serving **500+ users**, an ML-powered  bot, cloud-hosted data platforms)
+- 💼 **Now:** Senior Associate Engineer AI/ML , part of the team shipping production AI products (chatbots serving **500+ users**, an ML-powered  bot, cloud-hosted data platforms)
 - 🎓 **Mentoring:** 30+ student scholars on ed-tech and AI/ML projects, including hardware + ML builds
 - 🏆 **NeurIPS EEG Foundation Challenge 2025:** Top 120 among 7,000+ teams
 - 🛠️ **Previously:** AI/ML Developer at Stick and Dot (text-to-image/video pipelines with Blender) and AI Intern at NilAI (time-series modeling, RAG dashboards)
