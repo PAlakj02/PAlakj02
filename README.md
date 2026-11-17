@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Palak%20Jagtap&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20Agentic%20Systems&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Palak Jagtap banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Senior+Associate+Engineer%2C+AI%2FML+%40+Athena+Education;Top+120+%2F+7%2C000%2B+teams+%E2%80%94+NeurIPS+EEG+Challenge+2025;Building+LLM+apps%2C+RAG+pipelines+%26+production+backends;IIT+Roorkee+%E2%80%A2+Biosciences+%26+Bioengineering+%E2%80%A2+ML" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Senior+Associate+Engineer%2C+AI%2FML+%40++Education;Top+120+%2F+7%2C000%2B+teams+%E2%80%94+NeurIPS+EEG+Challenge+2025;Building+LLM+apps%2C+RAG+pipelines+%26+production+backends;IIT+Roorkee+%E2%80%A2+Biosciences+%26+Bioengineering+%E2%80%A2+ML" alt="Typing intro" />
 </a>
 
 <br/>
@@ -21,7 +21,7 @@
 
 I build AI products that actually ship: **LLM-powered chatbots, RAG systems, ML pipelines, and the backends behind them**. IIT Roorkee grad (B.Tech, Biosciences & Bioengineering) working where machine learning meets real products and real users.
 
-- 💼 **Now:** Senior Associate Engineer, AI/ML at **Athena Education**, part of the team shipping production AI products (chatbots serving **500+ users**, an ML-powered WhatsApp bot, cloud-hosted data platforms)
+- 💼 **Now:** Senior Associate Engineer -AI/ML , part of the team shipping production AI products (chatbots serving **500+ users**, an ML-powered  bot, cloud-hosted data platforms)
 - 🎓 **Mentoring:** 30+ student scholars on ed-tech and AI/ML projects, including hardware + ML builds
 - 🏆 **NeurIPS EEG Foundation Challenge 2025:** Top 120 among 7,000+ teams
 - 🛠️ **Previously:** AI/ML Developer at Stick and Dot (text-to-image/video pipelines with Blender) and AI Intern at NilAI (time-series modeling, RAG dashboards)
